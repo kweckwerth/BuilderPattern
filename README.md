@@ -1,2 +1,2 @@
 # BuilderPattern
-Recommended way to implement the builder pattern in Java for a standard user.
+Recommended way to implement the builder pattern in Java.  Note that the user is immutable.
